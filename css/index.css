@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Yeon+Sung&display=swap');
+
+/*그리드 시스템 설정*/
+.container {
+    width: 100%; /*모바일과 태블릿의 크기는 가변적*/
+    max-width: 1024px; /*pc크기*/
+    margin: 0 auto;
+}
+
+/**============header=============**/
+
