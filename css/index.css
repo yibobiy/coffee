@@ -9,5 +9,76 @@
     margin: 0 auto;
 }
 
+
 /**============header=============**/
 
+.mainmenu {
+    background-color: black;
+}
+
+.header-box {
+    width: 100%;
+    height: 500px;
+    overflow: hidden;
+}
+
+
+.gnb {
+    display: flex;
+    height: 50px;
+    align-items: center;
+}
+
+.gnb a {
+    color: white;
+    width: 100px;
+}
+
+
+
+/*-===============way_to_come============*/
+.flex-box {
+    display: flex;
+}
+
+.container > h2 {
+    margin-bottom: 40px;
+}
+
+.flex-box img {
+    margin-right: 40px;
+}
+
+
+.intro {
+    background-color: bisque;
+    padding: 50px;
+}
+
+.come {
+    background-color: ghostwhite;
+    padding: 50px;
+}
+
+.recommend {
+    background-color: bisque;
+    padding: 50px;
+}
+
+
+.ice img {
+    border-radius: 100%;
+}
+
+/*-===============footer============*/
+footer {
+    background: black;
+    height: 50px;
+}
+footer p {
+    text-align:center;
+    color: white;
+
+
+    
+}
